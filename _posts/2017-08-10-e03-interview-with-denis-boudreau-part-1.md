@@ -11,8 +11,15 @@ This is the first part of my interview with Denis Boudreau. Denis talks about hi
 
 
 <audio id="audio1" data-able-player preload="auto">
-  <source type="audio/mpeg" src="https://s3-us-west-1.amazonaws.com/patreon-posts/3scSwghyvFrFgbkI_U8BvRQQCqmqHuNRq3wdbaRX9q2ir0WrOpHgtWT-oABfx1kc.mp3"/>
+  <source type="audio/mpeg" src="https://a11yrules.ams3.cdn.digitaloceanspaces.com/podcast/episodes/E003-a11y-rules-denis-boudreau-part-1.mp3"/>
 </audio>
+
+<video id="video1" data-able-player preload="auto" width="480" height="360" poster="path_to_image.jpg">
+  <source type="video/webm" src="path_to_video.webm" data-desc-src="path_to_described_video.webm"/>
+  <source type="video/mp4" src="path_to_video.mp4" data-desc-src="path_to_described_video.mp4"/>
+  <track kind="captions" src="path_to_captions.vtt"/>
+  <track kind="descriptions" src="path_to_descriptions.vtt"/>
+</video>
 
 
 
