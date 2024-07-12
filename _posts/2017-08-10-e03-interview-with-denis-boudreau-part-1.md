@@ -2,21 +2,14 @@
 title: 'E03 Interview with Denis Boudreau - Part 1'
 date: '2018-05-03T17:19:30-04:00'
 author: 'Nicolas Steenhout'
-
+summary: This is the first part of my interview with Denis Boudreau. Denis talks about his understanding of accessibility, the importance of not approaching it as a “checklist”, its place in the UI/UX continuum, how becoming a parent helped him become more empathetic, and more!
 permalink: /series/original/interview-with-denis-boudreau-part-1/
 ---
-
-This is the first part of my interview with Denis Boudreau. Denis talks about his understanding of accessibility, the importance of not approaching it as a “checklist”, its place in the UI/UX continuum, how becoming a parent helped him become more empathetic, and more!
-
-
 
 <audio id="audio1" data-able-player preload="auto">
   <source type="audio/mpeg" src="https://a11yrules.ams3.cdn.digitaloceanspaces.com/podcast/episodes/E003-a11y-rules-denis-boudreau-part-1.mp3"/>
     <source type="audio/ogg" src="path_to_audio_file.ogg"/>
 </audio>
-
-
-
 
 
 <details>
