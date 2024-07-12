@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soundbites series
-permalink: /soundbites/
+permalink: /series/soundbites/
 ---
 
 ## Testing 
