@@ -6,9 +6,15 @@ summary: This is the first part of my interview with Denis Boudreau. Denis talks
 permalink: /series/original/interview-with-denis-boudreau-part-1/
 ---
 
+
+<figure>
+    <img src="/img/a11y-spec-work.jpg" alt="A white woman viewed from the back, working at a computer with a large screen.">
+    <figcaption class="image-caption"><span>Photo by </span><a href="https://unsplash.com/@anniespratt" rel="">Annie Spratt</a><span> on </span><a href="https://unsplash.com" rel="">Unsplash</a></figcaption>
+    </figure>
+    
+    
 <audio id="audio1" data-able-player preload="auto">
   <source type="audio/mpeg" src="https://a11yrules.ams3.cdn.digitaloceanspaces.com/podcast/episodes/E003-a11y-rules-denis-boudreau-part-1.mp3"/>
-    <source type="audio/ogg" src="path_to_audio_file.ogg"/>
 </audio>
 
 
