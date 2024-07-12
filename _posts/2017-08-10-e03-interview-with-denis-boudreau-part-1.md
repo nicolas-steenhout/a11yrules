@@ -7,10 +7,7 @@ permalink: /series/original/interview-with-denis-boudreau-part-1/
 ---
 
 
-<figure>
-    <img src="/img/a11y-spec-work.jpg" alt="A white woman viewed from the back, working at a computer with a large screen.">
-    <figcaption class="image-caption"><span>Photo by </span><a href="https://unsplash.com/@anniespratt" rel="">Annie Spratt</a><span> on </span><a href="https://unsplash.com" rel="">Unsplash</a></figcaption>
-    </figure>
+WHY YOU NO WORK STOOOOOOPID AUDIO PLAYER???
     
     
 <audio id="audio1" data-able-player preload="auto">
