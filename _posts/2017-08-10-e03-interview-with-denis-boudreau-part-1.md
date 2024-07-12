@@ -8,16 +8,14 @@ permalink: /series/original/interview-with-denis-boudreau-part-1/
 
 This is the first part of my interview with Denis Boudreau. Denis talks about his understanding of accessibility, the importance of not approaching it as a “checklist”, its place in the UI/UX continuum, how becoming a parent helped him become more empathetic, and more!
 
-<!--<div class="wrapper-video">
-  <video id="speaker-reel-video" class="video" data-able-player data-skin="2020" preload="auto" data-youtube-id="CcGCzwtg4BM" data-youtube-nocookie playsinline></video>
-</div>-->
-
-<div class="able-container"><div class="media-container"> <audio data-able-player="" data-meta-type="selector" data-speed-icons="animals" id="158612527"> <source src="https://s3-us-west-1.amazonaws.com/patreon-posts/3scSwghyvFrFgbkI_U8BvRQQCqmqHuNRq3wdbaRX9q2ir0WrOpHgtWT-oABfx1kc.mp3" type="audio/mp3"> </source></audio> </div></div>  
 
 
-<div class="podcast-episode episode-8"><div class="podcast_meta"><aside>[Download file <span class="screen-reader-text">“E03 - Interview with Denis Boudreau - Part 1”</span>](https://a11yrules.com/podcast-download/8/e03-interview-with-denis-boudreau-part-1.mp3?ref=download "E03 – Interview with Denis Boudreau – Part 1 ") | <span class="podcast-meta-duration">Duration: 26:09</span> | Guest: [Denis Boudreau](https://a11yrules.com/guest/denis-boudreau/) | Series: [A11y Rules Podcast](https://a11yrules.com/series/a11y-rules-podcast/)
+<audio id="audio1" data-able-player preload="auto">
+  <source type="audio/mpeg" src="https://s3-us-west-1.amazonaws.com/patreon-posts/3scSwghyvFrFgbkI_U8BvRQQCqmqHuNRq3wdbaRX9q2ir0WrOpHgtWT-oABfx1kc.mp3"/>
+</audio>
 
-</aside></div></div>  
+
+
 <details>
     <summary><h3>Transcript</h3></summary>
 **Nicolas:** Support for the Accessibility Rules Podcast comes from people like you. I really do appreciate your support.
